@@ -1,17 +1,22 @@
-# Olá, eu sou Samuel Soares! 👋
-### Backend Developer | Java & Spring Specialist 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1,+eu+sou+Samuel+Soares!;Backend+Developer;Java+%2B+Spring+Specialist;Architecting+Scalable+Solutions" alt="Typing SVG" />
+</div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_DO_SEU_LINKEDIN)](https://www.linkedin.com/in/soares-samuel/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.devsoares@gmail.com)](mailto:contato.devsoares@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/soares-samuel/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:contato.devsoares@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+
+<br/>
 
 
 ### 🚀 Sobre Mim
 
 Sou estudante do 5º período de **Sistemas de Informação na Unifacisa**, com uma trajetória moldada pela lógica e pela competição. Minha base técnica foi construída na **robótica competitiva (SESI-Prata)**, onde aprendi que a precisão do código define a diferença entre o sucesso e a falha.
-
-Hoje, transponho essa mentalidade de "campeonato" para o desenvolvimento de software. Meu foco é projetar **arquiteturas Backend escaláveis** utilizando o ecossistema Java. Não busco apenas fazer o código funcionar, mas sim construir soluções performáticas, limpas e sustentáveis a longo prazo.
-
-Estou em constante evolução, explorando microsserviços, cloud computing e boas práticas de engenharia de software para resolver problemas reais de negócio.
 
 * 🏆 **Destaques da Jornada:**
     * **2º Lugar Nacional** em Programação Prática na OBR (Olimpíada Brasileira de Robótica).
