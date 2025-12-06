@@ -36,14 +36,7 @@ Estou em constante evolução, explorando microsserviços, cloud computing e boa
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-![Stats de Samuel](https://github-readme-stats.vercel.app/api?username=soares-samuel&theme=dracula&show_icons=true)
-![Linguagens de Samuel](https://github-readme-stats.vercel.app/api/top-langs/?username=soares-samuel&layout=compact&theme=dracula)
-
----
+</br>
 
 <p align="center">
   <i>"A única maneira de fazer um excelente trabalho é amar o que você faz." — Steve Jobs</i>
