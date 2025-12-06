@@ -15,7 +15,7 @@ Estou em constante evolução, explorando microsserviços, cloud computing e boa
 
 * 🏆 **Destaques da Jornada:**
     * **2º Lugar Nacional** em Programação Prática na OBR (Olimpíada Brasileira de Robótica).
-    * **Liderança Técnica** em equipes de robótica (FLL e FTC), desenvolvendo algoritmos sob pressão.
+    * **Liderança Técnica** em equipes de robótica (FLL e FTC), desenvolvendo algoritmos e vencendo desafios.
     * Reconhecimento acadêmico com premiações na **OBMEP** e **Canguru de Matemática**.
 
 ---
