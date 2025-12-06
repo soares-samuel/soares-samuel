@@ -14,18 +14,18 @@
 <br/>
 
 
-### 🚀 Sobre Mim
+### Sobre Mim
 
 Sou estudante do 5º período de **Sistemas de Informação na Unifacisa**, com uma trajetória moldada pela lógica e pela competição. Minha base técnica foi construída na **robótica competitiva (SESI-Prata)**, onde aprendi que a precisão do código define a diferença entre o sucesso e a falha.
 
-* 🏆 **Destaques da Jornada:**
+**Destaques da Jornada:**
     * **2º Lugar Nacional** em Programação Prática na OBR (Olimpíada Brasileira de Robótica).
     * **Liderança Técnica** em equipes de robótica (FLL e FTC), desenvolvendo algoritmos e vencendo desafios.
     * Reconhecimento acadêmico com premiações na **OBMEP** e **Canguru de Matemática**.
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Backend & Core:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
