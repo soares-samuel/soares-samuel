@@ -1,198 +1,50 @@
-### Olá, eu sou Samuel Soares! 👋
+# Olá, eu sou Samuel Soares! 👋
+### Backend Developer | Java & Spring Specialist 
 
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Samuel Soares | Backend Developer</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <style>
-        :root {
-            --bg-color: #0d1117;
-            --text-color: #c9d1d9;
-            --accent-color: #58a6ff;
-            --card-bg: #161b22;
-            --border-color: #30363d;
-            --highlight: #238636; /* Verde GitHub */
-        }
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: var(--bg-color);
-            color: var(--text-color);
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            scroll-behavior: smooth; /* Rolagem suave */
-        }
-        .container { max-width: 900px; margin: 0 auto; padding: 20px; }
-        
-        /* Header */
-        header { text-align: center; padding: 80px 0 40px; }
-        h1 { font-size: 3rem; margin: 0; color: #fff; letter-spacing: -1px; }
-        .subtitle { font-size: 1.3rem; color: var(--accent-color); font-family: monospace; margin-top: 10px; }
-        .tagline { margin-top: 15px; color: #8b949e; max-width: 600px; margin-left: auto; margin-right: auto; }
-        
-        section { padding: 50px 0; border-bottom: 1px solid var(--border-color); }
-        h2 { color: #fff; font-size: 1.8rem; margin-bottom: 30px; display: flex; align-items: center; gap: 10px; }
-        h2 i { color: var(--accent-color); font-size: 1.4rem; }
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_DO_SEU_LINKEDIN)](https://www.linkedin.com/in/soares-samuel/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.devsoares@gmail.com)](mailto:contato.devsoares@gmail.com)
 
-        /* Timeline Interativa */
-        .timeline { position: relative; border-left: 3px solid var(--border-color); margin-left: 20px; padding-left: 30px; }
-        .timeline-item { position: relative; margin-bottom: 40px; }
-        .timeline-item::before {
-            content: ''; position: absolute; left: -39px; top: 5px;
-            width: 15px; height: 15px; border-radius: 50%;
-            background: var(--accent-color); border: 3px solid var(--bg-color);
-            transition: transform 0.3s ease;
-        }
-        .timeline-item:hover::before { transform: scale(1.5); background: var(--highlight); }
-        .timeline-date { font-size: 0.9rem; color: var(--accent-color); font-weight: bold; }
-        .timeline-title { font-size: 1.2rem; color: #fff; font-weight: bold; margin: 5px 0; }
-        .timeline-desc { font-size: 0.95rem; }
 
-        /* Badges de Conquistas */
-        .achievements-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; }
-        .achievement-card {
-            background: rgba(88, 166, 255, 0.1);
-            border: 1px solid var(--accent-color);
-            padding: 15px; border-radius: 8px;
-            display: flex; align-items: center; gap: 15px;
-            transition: transform 0.2s;
-        }
-        .achievement-card:hover { transform: translateY(-5px); background: rgba(88, 166, 255, 0.15); }
-        .achievement-icon { font-size: 1.5rem; color: var(--accent-color); }
-        .achievement-text div:first-child { font-weight: bold; color: #fff; }
-        .achievement-text div:last-child { font-size: 0.85rem; color: #8b949e; }
+### 🚀 Sobre Mim
 
-        /* Skills */
-        .skills { display: flex; gap: 10px; flex-wrap: wrap; }
-        .skill-tag { 
-            background: var(--card-bg); border: 1px solid var(--border-color); 
-            padding: 8px 16px; border-radius: 20px; font-size: 0.9rem;
-            display: flex; align-items: center; gap: 8px;
-            transition: border-color 0.3s;
-        }
-        .skill-tag:hover { border-color: var(--accent-color); color: #fff; }
+Sou estudante do 5º período de **Sistemas de Informação na Unifacisa**, com uma trajetória moldada pela lógica e pela competição. Minha base técnica foi construída na **robótica competitiva (SESI-Prata)**, onde aprendi que a precisão do código define a diferença entre o sucesso e a falha.
 
-        /* Botões */
-        .btn {
-            display: inline-block; padding: 10px 20px;
-            background-color: var(--accent-color); color: #000;
-            text-decoration: none; border-radius: 6px; font-weight: bold;
-            transition: opacity 0.2s;
-        }
-        .btn:hover { opacity: 0.9; }
-        .btn-outline { background: transparent; border: 1px solid var(--border-color); color: var(--text-color); margin-left: 10px; }
-        .btn-outline:hover { border-color: #fff; color: #fff; }
+Hoje, transponho essa mentalidade de "campeonato" para o desenvolvimento de software. Meu foco é projetar **arquiteturas Backend escaláveis** utilizando o ecossistema Java. Não busco apenas fazer o código funcionar, mas sim construir soluções performáticas, limpas e sustentáveis a longo prazo.
 
-    </style>
-</head>
-<body>
+Estou em constante evolução, explorando microsserviços, cloud computing e boas práticas de engenharia de software para resolver problemas reais de negócio.
 
-    <div class="container">
-        <header>
-            <h1>Samuel Soares</h1>
-            <div class="subtitle">Backend Developer | Java • Spring Ecosystem</div>
-            <p class="tagline">
-                Estudante de Sistemas de Informação na Unifacisa. Transformando lógica de competições de robótica em arquiteturas de software escaláveis.
-            </p>
-            <div style="margin-top: 20px;">
-                <a href="#projects" class="btn">Ver Projetos</a>
-                <a href="#contact" class="btn btn-outline">Contato</a>
-            </div>
-        </header>
+* 🏆 **Destaques da Jornada:**
+    * **2º Lugar Nacional** em Programação Prática na OBR (Olimpíada Brasileira de Robótica).
+    * **Liderança Técnica** em equipes de robótica (FLL e FTC), desenvolvendo algoritmos sob pressão.
+    * Reconhecimento acadêmico com premiações na **OBMEP** e **Canguru de Matemática**.
 
-        <section>
-            <h2><i class="fas fa-code"></i> Stack Tecnológico</h2>
-            <div class="skills">
-                <span class="skill-tag"><i class="fab fa-java"></i> Java 17/21</span>
-                <span class="skill-tag"><i class="fas fa-leaf"></i> Spring Boot</span>
-                <span class="skill-tag"><i class="fas fa-database"></i> Spring Data JPA</span>
-                <span class="skill-tag"><i class="fas fa-server"></i> REST APIs</span>
-                <span class="skill-tag"><i class="fas fa-database"></i> PostgreSQL</span>
-                <span class="skill-tag"><i class="fab fa-docker"></i> Docker</span>
-                <span class="skill-tag"><i class="fab fa-git-alt"></i> Git Flow</span>
-            </div>
-        </section>
+---
 
-        <section>
-            <h2><i class="fas fa-history"></i> Minha Jornada</h2>
-            <div class="timeline">
-                <div class="timeline-item">
-                    <div class="timeline-date">Atualmente (5º Período)</div>
-                    <div class="timeline-title">B.Sc. Sistemas de Informação - Unifacisa</div>
-                    <div class="timeline-desc">
-                        Foco total em Engenharia de Software e Desenvolvimento Backend. Aprofundando conhecimentos em estruturas de dados, bancos de dados e arquitetura de sistemas.
-                    </div>
-                </div>
-                <div class="timeline-item">
-                    <div class="timeline-date">Ensino Médio</div>
-                    <div class="timeline-title">Equipe de Robótica SESI-Prata</div>
-                    <div class="timeline-desc">
-                        Início da carreira como <strong>Programador Líder</strong>. Responsável pela lógica dos robôs em competições de alto nível. Aqui aprendi que código eficiente ganha campeonatos.
-                    </div>
-                </div>
-            </div>
-        </section>
+### 🛠 Tech Stack
 
-        <section>
-            <h2><i class="fas fa-trophy"></i> Conquistas & Prêmios</h2>
-            <div class="achievements-grid">
-                <div class="achievement-card">
-                    <div class="achievement-icon"><i class="fas fa-robot"></i></div>
-                    <div class="achievement-text">
-                        <div>2º Lugar Programação OBR</div>
-                        <div>Olimpíada Brasileira de Robótica (Nacional)</div>
-                    </div>
-                </div>
-                <div class="achievement-card">
-                    <div class="achievement-icon"><i class="fas fa-medal"></i></div>
-                    <div class="achievement-text">
-                        <div>Campeão FLL & FTC</div>
-                        <div>Competições de Robótica (Programador)</div>
-                    </div>
-                </div>
-                <div class="achievement-card">
-                    <div class="achievement-icon"><i class="fas fa-calculator"></i></div>
-                    <div class="achievement-text">
-                        <div>Destaque OBMEP</div>
-                        <div>Olimpíada Bras. de Matemática</div>
-                    </div>
-                </div>
-                <div class="achievement-card">
-                    <div class="achievement-icon"><i class="fas fa-square-root-alt"></i></div>
-                    <div class="achievement-text">
-                        <div>Canguru de Matemática</div>
-                        <div>Competição Internacional</div>
-                    </div>
-                </div>
-            </div>
-        </section>
+**Backend & Core:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
-        <section id="projects">
-            <h2><i class="fas fa-laptop-code"></i> Projetos em Destaque</h2>
-            <div style="background: var(--card-bg); padding: 20px; border-radius: 8px; border: 1px solid var(--border-color);">
-                <h3 style="color: #fff; margin-top: 0;">API de Gestão (Exemplo)</h3>
-                <p>Aqui você descreverá seu projeto backend Java mais forte.</p>
-                <a href="#" style="color: var(--accent-color); text-decoration: none;">Ver no GitHub -></a>
-            </div>
-        </section>
+**Database & DevOps:**
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-        <section id="contact">
-            <h2><i class="fas fa-envelope"></i> Contato</h2>
-            <p>Vamos construir algo juntos?</p>
-            <div style="margin-top: 20px;">
-                <a href="https://linkedin.com/in/seu-linkedin" class="btn"><i class="fab fa-linkedin"></i> LinkedIn</a>
-                <a href="https://github.com/seu-github" class="btn btn-outline"><i class="fab fa-github"></i> GitHub</a>
-                <a href="mailto:seu-email@gmail.com" class="btn btn-outline"><i class="fas fa-envelope"></i> Email</a>
-            </div>
-        </section>
+**Tools:**
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-        <footer style="text-align: center; padding: 40px 0; color: #666; font-size: 0.8rem;">
-            &copy; 2025 Samuel Soares. Feito com HTML, CSS e Café.
-        </footer>
-    </div>
+---
 
-</body>
-</html>
+### 📊 GitHub Stats
+
+![Stats de Samuel](https://github-readme-stats.vercel.app/api?username=soares-samuel&theme=dracula&show_icons=true)
+![Linguagens de Samuel](https://github-readme-stats.vercel.app/api/top-langs/?username=soares-samuel&layout=compact&theme=dracula)
+
+---
+
+<p align="center">
+  <i>"A única maneira de fazer um excelente trabalho é amar o que você faz." — Steve Jobs</i>
+</p>
