@@ -16,7 +16,9 @@
 
 ### Sobre Mim
 
-Sou estudante do 5º período de **Sistemas de Informação na Unifacisa**, com uma trajetória moldada pela lógica e pela competição. Minha base técnica foi construída na **robótica competitiva (SESI-Prata)**, onde aprendi que a precisão do código define a diferença entre o sucesso e a falha.
+Minha trajetória em TI começou na lógica pura. Durante minha jornada escolar, atuei como Líder Técnico em robótica e fui premiado nacionalmente na OBR (2º Lugar em Programação) e olimpíadas de matemática.
+
+Atualmente, transformo essa disciplina em código. Além da graduação em SI na Unifacisa, dedico-me à criação da Beevate, uma iniciativa própria que visa criar soluções acessíveis de gestão e que estou estruturando para se consolidar como empresa no mercado de tecnologia.
 
 * **Destaques da Jornada:**
     * **Destaques Acadêmicos:**
