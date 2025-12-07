@@ -20,7 +20,7 @@ Sou estudante do 5º período de **Sistemas de Informação na Unifacisa**, com 
 
 * **Destaques da Jornada:**
     * **Destaques Acadêmicos:**
-      * **2º Lugar Nacional** na OBR (Olimpíada Brasileira de Robótica).
+      * **2º Lugar Nacional** na modalidade de **programação** na OBR (Olimpíada Brasileira de Robótica).
       * **Liderança Técnica** em equipes de robótica (FLL e FTC).
       * Premiado na **OBMEP** e **Canguru de Matemática**.
      
