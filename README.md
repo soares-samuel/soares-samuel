@@ -23,7 +23,8 @@ Atualmente, transformo essa disciplina em código. Além da graduação em SI na
 * **Destaques da Jornada:**
     * **Destaques Acadêmicos:**
       * **2º Lugar Nacional** na modalidade de **programação** na OBR (Olimpíada Brasileira de Robótica).
-      * **Liderança Técnica** em equipes de robótica (FLL e FTC).
+      * **Liderança Técnica** em equipes de robótica (FLL e OBR).
+      * **Premiações** na FLL (Champions Award e melhor robô)
       * Premiado na **OBMEP** e **Canguru de Matemática**.
      
 
